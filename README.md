@@ -4,6 +4,7 @@
 
 <p align="center">
   <img align="center" src="https://img.shields.io/github/package-json/v/JSSchumacher/SCHEMA">
+  <img align="center" src="https://img.shields.io/github/license/JSSchumacher/SCHEMA">
   <img align="center" src="https://img.shields.io/github/last-commit/JSSchumacher/SCHEMA">
 </p>
 
