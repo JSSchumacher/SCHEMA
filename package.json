@@ -1,6 +1,6 @@
 {
     "name": "schema",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "SCHEMA - Schumacher Content Hierarchical Encoding & Management Architecture",
     "author": {
     "name": "Joshua Schumacher",
