@@ -31,4 +31,4 @@ SCHEMA (Schumacher Content Hierarchical Encoding & Management Architecture) is a
   <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/JSS-Embeds/main/Images/Xeon/Transparent/Word/XEON%20Outline.png" />
 </p>
 
-##### Written By [Xeon](https://github.com/JSSchumacher) <br> Licensed under the [CC-BY-SA-4.0](https://github.com/JSSchumacher/SCHEMA/blob/main/LICENSE) <br> Version v1.0.3.0000-2025.07.29-release
+##### Written By [Xeon](https://github.com/JSSchumacher) <br> Licensed under the [CC-BY-SA-4.0](https://github.com/JSSchumacher/SCHEMA/blob/main/LICENSE) <br> Version v1.0.0.0003-2025.07.29-beta
