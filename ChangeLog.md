@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [v1.0.1.0005-2025.08.12-release] - 2025-08-12
+## Notes: Added two new item types
+
+### Added
+
+- New version of manual
+
+### Changed
+
+- Nothing
+
+### Removed
+
+- Old version of manual
+
 # [v1.0.0.0005-2025.07.29-beta] - 2025-07-29
 ## Notes: Added the usable template
 
@@ -105,7 +120,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/SCHEMA
-[v1.0.0.0005-2025.07.29-beta]: No Page Available 
+[v1.0.1.0005-2025.08.12-release]: No Page Available
+[v1.0.0.0005-2025.07.29-beta]: https://github.com/JSSchumacher/SCHEMA/commit/1f9c161ca91eb4c99253b30d02173a4498b7ed10
 [v1.0.0.0004-2025.07.29-beta]: https://github.com/JSSchumacher/SCHEMA/commit/a1b0de02781bc22b4edb4c5b0d93769c027bca90
 [v1.0.0.0003-2025.07.29-beta]: https://github.com/JSSchumacher/SCHEMA/commit/bd381251b49052349b7df2f1128ca7831e03e381
 [v0.0.0.0002-2025.06.26-alpha]: https://github.com/JSSchumacher/SCHEMA/commit/8c350756f499d6a4eb0d9f771cde52ec0d6ff419
