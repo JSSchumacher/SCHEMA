@@ -1,3 +1,4 @@
+# SCHEMA ID: 0-4-20250909-Schumacher.Personal-SCCP
 import random
 import string
 

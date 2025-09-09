@@ -5,6 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [v1.0.3.0006-2025.09.09-release] - 2025-09-09
+## Notes: Added Clearance Code Protocol SCHEMA ID
+
+### Added
+
+- SCHEMA ID for schema-ccp.py (and run schema-ccp.bat)
+- File ID under Clearance Code Protocol for SCHEMA-CCP
+
+### Changed
+
+- Nothing
+
+### Removed
+
+- Nothing
+
 # [v1.0.3.0005-2025.09.09-release] - 2025-09-09
 ## Notes: Added Clearance Code Protocol and CCP generation script
 
@@ -151,7 +167,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/SCHEMA
-[v1.0.3.0005-2025.09.09-release]: No Page Available
+[v1.0.3.0006-2025.09.09-release]: No Page Available 
+[v1.0.3.0005-2025.09.09-release]: https://github.com/JSSchumacher/SCHEMA/commit/43254cd40a742742ac7943a9a61545f2a7ae70b1
 [v1.0.2.0005-2025.09.03-release]: https://github.com/JSSchumacher/SCHEMA/commit/9226d426cab6d6498a6fcfd94f347b0ea9a189de
 [v1.0.1.0005-2025.08.12-release]: https://github.com/JSSchumacher/SCHEMA/commit/caa92052af1818896625853caa9deb1134e2adfe 
 [v1.0.0.0005-2025.07.29-beta]: https://github.com/JSSchumacher/SCHEMA/commit/1f9c161ca91eb4c99253b30d02173a4498b7ed10
