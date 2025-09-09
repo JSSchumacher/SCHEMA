@@ -5,6 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [v1.0.3.0005-2025.09.09-release] - 2025-09-09
+## Notes: Added Clearance Code Protocol and CCP generation script
+
+### Added
+
+- Clearance Code Protocol to Manual
+- Clearance Code Protocol script to generate codes (only generates random codes. No validation)
+
+### Changed
+
+- Replaced old version of manual
+
+### Removed
+
+- Nothing
+
 # [v1.0.2.0005-2025.09.03-release] - 2025-09-03
 ## Notes: Added one new item types (Framework)
 
@@ -135,8 +151,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/SCHEMA
-[v1.0.2.0005-2025.09.03-release]: No Page Available
-[v1.0.1.0005-2025.08.12-release]: https://github.com/JSSchumacher/SCHEMA/commit/caa92052af1818896625853caa9deb1134e2adfe
+[v1.0.3.0005-2025.09.09-release]: No Page Available
+[v1.0.2.0005-2025.09.03-release]: https://github.com/JSSchumacher/SCHEMA/commit/9226d426cab6d6498a6fcfd94f347b0ea9a189de
+[v1.0.1.0005-2025.08.12-release]: https://github.com/JSSchumacher/SCHEMA/commit/caa92052af1818896625853caa9deb1134e2adfe 
 [v1.0.0.0005-2025.07.29-beta]: https://github.com/JSSchumacher/SCHEMA/commit/1f9c161ca91eb4c99253b30d02173a4498b7ed10
 [v1.0.0.0004-2025.07.29-beta]: https://github.com/JSSchumacher/SCHEMA/commit/a1b0de02781bc22b4edb4c5b0d93769c027bca90
 [v1.0.0.0003-2025.07.29-beta]: https://github.com/JSSchumacher/SCHEMA/commit/bd381251b49052349b7df2f1128ca7831e03e381
