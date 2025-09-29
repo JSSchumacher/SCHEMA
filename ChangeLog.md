@@ -5,6 +5,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [v1.0.5.0006-2025.09.28-release] - 2025-09-28
+## Notes: Added item types (8 - Machine, 9 - Mail, 10 - Organization, 11 - Network) (plus light UI cleanup & DocForm cleanup)
+
+### Added
+
+- Item type 8 - Machine
+- Item type 9 - Mail
+- Item type 10 - Organization
+- Item type 11 - Network
+- Color SEC tags in document formatting
+
+### Changed
+
+- Clean and Standardized page formating
+- Updated Document Formatting to standarize page formatting
+
+### Removed
+
+- Nothing
+
 # [v1.0.4.0006-2025.09.14-release] - 2025-09-14
 ## Notes: New Iterm type "8 - Machine", General Interface Cleanup
 
@@ -186,6 +206,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [Github Page]: https://github.com/JSSchumacher/SCHEMA
 [v1.0.4.0006-2025.09.14-release]: No Page Available 
+[v1.0.4.0006-2025.09.14-release]: https://github.com/JSSchumacher/SCHEMA/commit/96e058368bc088c2b32e0b0f01edb34a99d0cc6c
 [v1.0.3.0006-2025.09.09-release]: https://github.com/JSSchumacher/SCHEMA/commit/4a6a974516e4924f9bf26c44173058ee9325d217
 [v1.0.3.0005-2025.09.09-release]: https://github.com/JSSchumacher/SCHEMA/commit/43254cd40a742742ac7943a9a61545f2a7ae70b1
 [v1.0.2.0005-2025.09.03-release]: https://github.com/JSSchumacher/SCHEMA/commit/9226d426cab6d6498a6fcfd94f347b0ea9a189de
