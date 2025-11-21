@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [v1.0.5.0007-2025.11.20-release] - 2025-11-20
+## Notes: Quick update before I switch from Windows to Linux
+
+### Added
+
+- SCHEMA round.png
+
+### Changed
+
+- Nothing
+
+### Removed
+
+- Nothing
+
 # [v1.0.5.0006-2025.09.28-release] - 2025-09-28
 ## Notes: Added item types (8 - Machine, 9 - Mail, 10 - Organization, 11 - Network) (plus light UI cleanup & DocForm cleanup)
 
@@ -205,7 +220,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Github Page]: https://github.com/JSSchumacher/SCHEMA
-[v1.0.4.0006-2025.09.14-release]: No Page Available 
+[v1.0.5.0007-2025.11.20-release]: No Page Available
+[v1.0.5.0006-2025.09.28-release]: https://github.com/JSSchumacher/SCHEMA/commit/a24d169c266baed219e5e60caf03c5be3bc60975
 [v1.0.4.0006-2025.09.14-release]: https://github.com/JSSchumacher/SCHEMA/commit/96e058368bc088c2b32e0b0f01edb34a99d0cc6c
 [v1.0.3.0006-2025.09.09-release]: https://github.com/JSSchumacher/SCHEMA/commit/4a6a974516e4924f9bf26c44173058ee9325d217
 [v1.0.3.0005-2025.09.09-release]: https://github.com/JSSchumacher/SCHEMA/commit/43254cd40a742742ac7943a9a61545f2a7ae70b1
